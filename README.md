@@ -1,6 +1,6 @@
 Pioneer AI 1.0
 
-![Screenshot](PioneerAI.1.0.JPG) chatbot.JPG
+![Screenshot](PioneerAI.1.0.JPG)
 ![Screenshot](chatbot.JPG) 
 ![Screenshot](rates.JPG) 
 
